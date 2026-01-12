@@ -1,1 +1,1 @@
-# neon-shooter
+# shooter-game
